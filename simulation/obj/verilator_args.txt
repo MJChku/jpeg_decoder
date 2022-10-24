@@ -1,0 +1,1 @@
+/opt/local/bin/verilator_bin;--compiler;clang;--prefix;Vjpeg_core;--Mdir;/Users/mjc/Downloads/mjc_jpege/jpeg_decoder/simulation/CMakeFiles/jpeg_decode.dir/Vjpeg_core.dir;--make;cmake;--trace;--cc;-y;../src_v;../src_v/jpeg_core.v
